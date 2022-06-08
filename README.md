@@ -2,6 +2,7 @@
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 [![lifecycle](https://img.shields.io/badge/version-2022-red.svg)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6624035.svg)](https://doi.org/10.5281/zenodo.6624035)
 
 ## Meta-Information
 
