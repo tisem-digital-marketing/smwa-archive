@@ -36,8 +36,6 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 
 ## Citation
 
-Suggested Citation for course material:
-
 The suggested citation for the course materials is:
 
 ```
